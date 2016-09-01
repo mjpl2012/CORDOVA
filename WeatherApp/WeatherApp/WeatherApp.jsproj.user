@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferenceCachePath>C:\Users\administrador\AppData\Local\Temp\2\WeatherApp_refcache</ReferenceCachePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
+    <DebuggerFlavor>RippleNexus</DebuggerFlavor>
+    <AndroidEmulatorID>4039B47A-1DB6-4113-BC0B-E8472A1DAB91;VS Emulator 5.5" KitKat (4.4) HDPI Phone</AndroidEmulatorID>
+  </PropertyGroup>
+</Project>
